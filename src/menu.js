@@ -11,7 +11,7 @@ export default function createMenuDiv() {
     desc.innerHTML = 'Breads, cakes, sweets. Anything you would want from a bakery.';
 
     const img = document.createElement('img');
-    img.src = './assets/desserts-1868181_640.jpg'
+    img.src = './images/desserts-1868181_640.jpg'
 
     const source = document.createElement('p');
     source.classList.add('source');
