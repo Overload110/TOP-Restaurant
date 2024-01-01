@@ -1,5 +1,5 @@
 body{
-    background-image: url('./images/bread-1284438_1280.jpg');
+    background-image: url('../src/images/bread-1284438_1280.jpg');
     background-repeat: no-repeat;
     height: 100vh;
     background-size: cover;
